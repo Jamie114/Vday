@@ -17,7 +17,7 @@ function showMessage(response) {
         noButton.style.top = randomY + 'px';
         
         const yesMessage = document.getElementById('peepee');
-        yesMessage.textContent = "The no button is just for visuals";
+        yesMessage.textContent = "I knew you'd select no for a laugh you petty lil one. The no button is just for visuals only, keep trying 😉";
         const nameMessage = document.getElementById('name');
         nameMessage.style.display = "none";
         
