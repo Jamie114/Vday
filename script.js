@@ -28,7 +28,7 @@ function showMessage(response) {
         const noButton = document.getElementById('no-button');
         noButton.remove();
         const yesMessage = document.getElementById('peepee');
-        yesMessage.textContent = "LESGGOOOOOOOO see you on the 14th of February Janam <3";
+        yesMessage.textContent = "LESGGOOOOOOOO see you on the 14th of February Janam <33";
         yesMessage.style.display = 'block';
         yesMessage.style.fontStyle = 'normal';
         const image = document.getElementsByClassName('image');
